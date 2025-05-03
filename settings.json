@@ -1,6 +1,6 @@
 {
-    "input_path": "C:\\Users\\Jonathan\\Desktop\\projects\\pcbpartparser\\_input",
-    "output_path": "C:\\Users\\Jonathan\\Desktop\\projects\\pcbpartparser\\_output",
+    "input_path": "C:\\Users\\Jonathan\\Desktop\\projects\\pcbpartparser\\input",
+    "output_path": "C:\\Users\\Jonathan\\Desktop\\projects\\pcbpartparser\\output",
     "group_dict": {
         "IC.Semiconductors": "I",
         "Capacitors": "C",
