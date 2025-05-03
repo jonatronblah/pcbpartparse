@@ -1,0 +1,10 @@
+{
+    "input_path": "C:\\Users\\Jonathan\\Desktop\\projects\\pcbpartparser\\_input",
+    "output_path": "C:\\Users\\Jonathan\\Desktop\\projects\\pcbpartparser\\_output",
+    "group_dict": {
+        "IC.Semiconductors": "I",
+        "Capacitors": "C",
+        "Resistors": "R",
+        "Diodes": "D"
+    }
+}
